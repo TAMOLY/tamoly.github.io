@@ -1,6 +1,0 @@
-body {
-  /* 本地图片路径：/img/bj.png（对应 blog/source/img/bjb.png） */
-  background: url(/img/bj.png) no-repeat !important;
-  background-size: cover !important;
-  background-attachment: fixed !important; /* 可选：背景固定 */
-}
